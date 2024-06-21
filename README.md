@@ -116,7 +116,7 @@ After training the model, we achieved the following performance metrics:
 
 Here is a visualization of the model's predictions compared to the actual Bitcoin prices:
 
-![BTC Price Prediction](https://github.com/CtripleU/BTC-timeseries/blob/btc_price_prediction.png)
+![BTC Price Prediction](btc_price_prediction.png)
 
 Observations and Insights from the BTC Price Prediction plot:
 
