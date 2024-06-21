@@ -127,7 +127,7 @@ Observations and Insights from the BTC Price Prediction plot:
 
 Here is a visualization of the traing loss compared to the validation loss:
 
-![Model Loss](https://github.com/CtripleU/BTC-timeseries/blob/model_loss.png)
+![Model Loss](model_loss.png)
 
 Observations and Insights from the Model Loss plot
 
